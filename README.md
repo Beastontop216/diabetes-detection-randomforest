@@ -4,7 +4,6 @@ This project demonstrates a machine learning pipeline for predicting diabetes us
 
 ## Features
 - Handles missing values using mean imputation
-- Applies feature standardization for improved performance
 - Uses Random Forest Classifier for binary classification
 - Evaluates model performance with multiple metrics
 - Predicts diabetes status for new patients based on medical input
@@ -21,8 +20,8 @@ The dataset used is the Pima Indians Diabetes dataset, which includes medical da
 
 ## Performance
 - **Accuracy**: 80%
-- **ROC-AUC**: 0.81
-- **Confusion Matrix**: 89 TN, 34 TP, 10 FP, 21 FN
+- **ROC-AUC**: 0.85
+- **Confusion Matrix**: 86 TN, 37 TP, 10 FP, 21 FN
 
 ## How to Run
 1. Clone this repo
