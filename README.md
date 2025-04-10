@@ -31,6 +31,6 @@ The dataset used is the Pima Indians Diabetes dataset, which includes medical da
 
 ---
 
-**Author**: [Your Name]  
-**License**: MIT (or your preferred license)
+**Author**: Lenon Frimson Pinto
+
 # diabetes-detection-randomforest
